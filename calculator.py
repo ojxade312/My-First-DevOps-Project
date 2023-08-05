@@ -53,3 +53,5 @@ while True:
           break
     else:
         print("Invalid Input")
+
+# pylint: disable=C0103
